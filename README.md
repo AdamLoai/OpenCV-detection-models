@@ -7,8 +7,8 @@ There are public XML-files of trained models to detection of different objects: 
 
 Available branches:
 
-* [OpenCV 2.4.12]()
-* [OpenCV 3.0]()
+* [OpenCV 2.4.12](https://github.com/AlexeyAB/OpenCV-detection-models/tree/master)
+* [OpenCV 3.0](https://github.com/AlexeyAB/OpenCV-detection-models/tree/3.0)
 
 
 Used detection methods:
