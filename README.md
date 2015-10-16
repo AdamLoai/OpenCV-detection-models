@@ -13,17 +13,17 @@ Available branches:
 
 Used detection methods:
 
-* HaarCascades [cv::CascadeClassifier (C++ class)](http://docs.opencv.org/modules/objdetect/doc/cascade_classification.html#CascadeClassifier)
-* HaarCascades CUDA [gpu::CascadeClassifier_GPU (C++ class)](http://docs.opencv.org/modules/gpu/doc/object_detection.html#gpu::CascadeClassifier_GPU)
-* [cv::LatentSvmDetector (C++ class)](http://docs.opencv.org/modules/objdetect/doc/latent_svm.html#LatentSvmDetector)
-* [CvSVM](http://docs.opencv.org/modules/ml/doc/support_vector_machines.html#cv2.SVM)
-* [gpu::HOGDescriptor (C++ structure)](http://docs.opencv.org/modules/gpu/doc/object_detection.html#gpu::HOGDescriptor)
+* HaarCascades [cv::CascadeClassifier (C++ class)](http://docs.opencv.org/master/d1/de5/classcv_1_1CascadeClassifier.html#gsc.tab=0)
+* HaarCascades CUDA [gpu::CascadeClassifier_GPU (C++ class)](http://docs.opencv.org/master/d9/d80/classcv_1_1cuda_1_1CascadeClassifier.html#gsc.tab=0)
+* DPM [cv::DPMDetector (C++ class)](http://docs.opencv.org/master/df/dba/classcv_1_1dpm_1_1DPMDetector.html#gsc.tab=0)
+* HOG [cv::HOGDescriptor](http://docs.opencv.org/master/d5/d33/structcv_1_1HOGDescriptor.html#gsc.tab=0)
+* HOG CUDA [cv::cuda::HOG (C++ structure)](http://docs.opencv.org/master/de/da6/classcv_1_1cuda_1_1HOG.html#gsc.tab=0)
 
 
 Sources of models:
 
-* [Itseez/opencv_extra - LatentSVMdetector](https://github.com/Itseez/opencv_extra/tree/2.4.12.x-prep/testdata/cv/latentsvmdetector)
-* [Itseez/opencv - cascades: Haar, HOG and LBP](https://github.com/Itseez/opencv/tree/2.4.12.x-prep/data)
+* [Itseez/opencv_extra - DPM (LatentSVMdetector)](https://github.com/Itseez/opencv_extra/tree/master/testdata/cv/dpm/VOC2007_Cascade)
+* [Itseez/opencv - cascades: Haar, HOG and LBP](https://github.com/Itseez/opencv/tree/master/data)
 
 
 Soft for training:
@@ -32,4 +32,4 @@ Soft for training:
 * HOG: https://github.com/DaHoC/trainHOG
 
 
-OpenCV documentation: http://docs.opencv.org/genindex.html
+OpenCV documentation: http://docs.opencv.org/master/#gsc.tab=0

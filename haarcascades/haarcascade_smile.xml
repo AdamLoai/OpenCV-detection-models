@@ -10,7 +10,7 @@
     <meta name="viewport" content="width=1020">
     
     
-    <title>opencv/haarcascade_smile.xml at 2.4.12.x-prep · Itseez/opencv</title>
+    <title>opencv/haarcascade_smile.xml at master · Itseez/opencv</title>
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
     <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-114.png">
@@ -24,7 +24,7 @@
       <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
     <meta name="browser-errors-url" content="https://api.github.com/_private/browser/errors">
     <link rel="assets" href="https://assets-cdn.github.com/">
-    <link rel="web-socket" href="wss://live.github.com/_sockets/NDA5NjQ4NTpiZmQxMjVhZDY5YzAwOTg0YTJhNTcxMWRlOTg2ODk0ZDo5OWRkODY2ZTAxMjc2N2I5OWZhZmY0MjI2YTgzZTlmNTdjY2QwNTQzMjNjYmYyOThhYTUwNmUwNTJhZDAwNDE0--7588811647368a83ee38b909fb3292ec52c19c51">
+    <link rel="web-socket" href="wss://live.github.com/_sockets/NDA5NjQ4NTpiZmQxMjVhZDY5YzAwOTg0YTJhNTcxMWRlOTg2ODk0ZDo4MjY3ZWYxODE5NWZjODBjODQzNGQ0NTBlYzU5ODY5ZDk2OTA5ZWNiNjUxMmRhM2UyYTdkYjU2OTAyMGJlN2Q1--9ec50bacd2d6b59521b3f9c916dd8ff5d6cea91c">
     <meta name="pjax-timeout" content="1000">
     <link rel="sudo-modal" href="/sessions/sudo_modal">
 
@@ -35,7 +35,7 @@
     <meta name="google-site-verification" content="KT5gs8h0wvaagLKAVWq8bbeNwnZZK1r1XQysX3xurLU">
     <meta name="google-analytics" content="UA-3769691-2">
 
-<meta content="collector.githubapp.com" name="octolytics-host" /><meta content="github" name="octolytics-app-id" /><meta content="5BE3BEF3:45C9:13463C21:5621752D" name="octolytics-dimension-request_id" /><meta content="4096485" name="octolytics-actor-id" /><meta content="AlexeyAB" name="octolytics-actor-login" /><meta content="62fda105c5f044ef3e0b8302d97792f856817a4f540019bc2b40d30b22d5966f" name="octolytics-actor-hash" />
+<meta content="collector.githubapp.com" name="octolytics-host" /><meta content="github" name="octolytics-app-id" /><meta content="5BE3BEF3:07C6:CB493CD:5621784D" name="octolytics-dimension-request_id" /><meta content="4096485" name="octolytics-actor-id" /><meta content="AlexeyAB" name="octolytics-actor-login" /><meta content="62fda105c5f044ef3e0b8302d97792f856817a4f540019bc2b40d30b22d5966f" name="octolytics-actor-hash" />
 
 <meta content="Rails, view, blob#show" data-pjax-transient="true" name="analytics-event" />
 
@@ -69,7 +69,7 @@
   <meta name="go-import" content="github.com/Itseez/opencv git https://github.com/Itseez/opencv.git">
 
   <meta content="1786446" name="octolytics-dimension-user_id" /><meta content="Itseez" name="octolytics-dimension-user_login" /><meta content="5108051" name="octolytics-dimension-repository_id" /><meta content="Itseez/opencv" name="octolytics-dimension-repository_nwo" /><meta content="true" name="octolytics-dimension-repository_public" /><meta content="false" name="octolytics-dimension-repository_is_fork" /><meta content="5108051" name="octolytics-dimension-repository_network_root_id" /><meta content="Itseez/opencv" name="octolytics-dimension-repository_network_root_nwo" />
-  <link href="https://github.com/Itseez/opencv/commits/2.4.12.x-prep.atom" rel="alternate" title="Recent Commits to opencv:2.4.12.x-prep" type="application/atom+xml">
+  <link href="https://github.com/Itseez/opencv/commits/master.atom" rel="alternate" title="Recent Commits to opencv:master" type="application/atom+xml">
 
   </head>
 
@@ -210,7 +210,7 @@
             Settings
           </a>
 
-          <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/logout" class="logout-form" data-form-nonce="ed2c139050ebd65f1aeece952fed82e6f5cb527e" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="2TO5t17zVlHjy0A7gzYT66+lYnt0XPEtO43Z4YlAxbUoZ3VhauTIc9XdsM8fz/VYftUB2VWkeuqS2d9Ccsmh8g==" /></div>
+          <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/logout" class="logout-form" data-form-nonce="ed2c139050ebd65f1aeece952fed82e6f5cb527e" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="Tu2uqVdi4h4al3oHETIM/ZIIZyOs5+vCfpHHX/limbD8vqzYb5gy8B74OUGFj1Bdink5JLYniW3gcKsrejzYig==" /></div>
             <button class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
               Sign out
             </button>
@@ -248,7 +248,7 @@
 <ul class="pagehead-actions">
 
   <li>
-      <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-form-nonce="ed2c139050ebd65f1aeece952fed82e6f5cb527e" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="G7mdH3KrxhLdKOV9FJ4lkX7lNpVoZvUmPmHCurBolG3BnJW6+CR6yVttaNsJycyXnc84ZB3dOrltCPqWNrsUsA==" /></div>    <input id="repository_id" name="repository_id" type="hidden" value="5108051" />
+      <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-form-nonce="ed2c139050ebd65f1aeece952fed82e6f5cb527e" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="oVvGdOEEQ3yJBKdXC2JMaSGMaqsX/gEuedZ9tE3HE19c2p3NDL8BY8o+ACTJjD4JWy5VrhyQgruJSkyO3o5vAQ==" /></div>    <input id="repository_id" name="repository_id" type="hidden" value="5108051" />
 
       <div class="select-menu js-menu-container js-select-menu">
         <a href="/Itseez/opencv/subscription"
@@ -323,7 +323,7 @@
     
   <div class="js-toggler-container js-social-container starring-container on">
 
-    <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/Itseez/opencv/unstar" class="js-toggler-form starred js-unstar-button" data-form-nonce="ed2c139050ebd65f1aeece952fed82e6f5cb527e" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="Yzoc141ztqBCX6qh/9FJz+kb0MZ3rGb3YUUjjgnmpYwwxIIOJf9QhSgziuMf+0rMZ3OPR7NdTUdWeplE2fEVgQ==" /></div>
+    <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/Itseez/opencv/unstar" class="js-toggler-form starred js-unstar-button" data-form-nonce="ed2c139050ebd65f1aeece952fed82e6f5cb527e" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="fDLLwCtrc2VVSLa8EX7Y27exUyMHw3PxEJOL+9vn4OLB0FzC/thiw5qjjK9QZmYx5dXuV11d5L+WRXsr1TCjug==" /></div>
       <button
         class="btn btn-sm btn-with-count js-toggler-target"
         aria-label="Unstar this repository" title="Unstar Itseez/opencv"
@@ -335,7 +335,7 @@
           6,913
         </a>
 </form>
-    <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/Itseez/opencv/star" class="js-toggler-form unstarred js-star-button" data-form-nonce="ed2c139050ebd65f1aeece952fed82e6f5cb527e" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="em+ur/thTa3pztbgnEOBIG/TICFuEsX/m/xLu1IoMbfVZjdd438D4hk0uvRjlLVdImjJlk7Lxc0JQP/edDuJTg==" /></div>
+    <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/Itseez/opencv/star" class="js-toggler-form unstarred js-star-button" data-form-nonce="ed2c139050ebd65f1aeece952fed82e6f5cb527e" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="GXhyxA07RcFDP26kKB1LOPdPZdjEbAY3CUOhXhW1c6fw6tyzAuQzIcMY/y/ZZkMR6xqkQg46ecuqUFd5J1u3pg==" /></div>
       <button
         class="btn btn-sm btn-with-count js-toggler-target"
         aria-label="Star this repository" title="Star Itseez/opencv"
@@ -401,7 +401,7 @@
      data-issue-count-url="/Itseez/opencv/issues/counts">
   <ul class="sunken-menu-group">
     <li class="tooltipped tooltipped-w" aria-label="Code">
-      <a href="/Itseez/opencv/tree/2.4.12.x-prep" aria-label="Code" aria-selected="true" class="js-selected-navigation-item selected sunken-menu-item" data-hotkey="g c" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches /Itseez/opencv/tree/2.4.12.x-prep">
+      <a href="/Itseez/opencv" aria-label="Code" aria-selected="true" class="js-selected-navigation-item selected sunken-menu-item" data-hotkey="g c" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches /Itseez/opencv">
         <span class="octicon octicon-code"></span> <span class="full-word">Code</span>
         <img alt="" class="mini-loader" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
 </a>    </li>
@@ -488,7 +488,7 @@
 
 
 <div class="clone-options text-small">You can clone with
-  <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/users/set_protocol?protocol_selector=http&amp;protocol_type=clone" class="inline-form js-clone-selector-form is-enabled" data-form-nonce="ed2c139050ebd65f1aeece952fed82e6f5cb527e" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="4o7i/aqiyCWSrTugyGHL+lO72H42eTztfO7Y9+dPsS8hXBMjAL7AR37JPz64xiDVq9iG3fPnY7eSBpJywzduLQ==" /></div><button class="btn-link js-clone-selector" data-protocol="http" type="submit">HTTPS</button></form>, <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/users/set_protocol?protocol_selector=ssh&amp;protocol_type=clone" class="inline-form js-clone-selector-form is-enabled" data-form-nonce="ed2c139050ebd65f1aeece952fed82e6f5cb527e" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="sFSVTfkC4EEOH53SyfBU7OPNJbUPBI62OmmXpKcHN40tlZFPspbtVGJKpE5gg2w79IMeuUy9287P4nGa+9ElIw==" /></div><button class="btn-link js-clone-selector" data-protocol="ssh" type="submit">SSH</button></form>, or <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/users/set_protocol?protocol_selector=subversion&amp;protocol_type=clone" class="inline-form js-clone-selector-form is-enabled" data-form-nonce="ed2c139050ebd65f1aeece952fed82e6f5cb527e" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="uj7nkRwXCI8BZJyi/JRcg3pm5kOESZfL3k7eyrv4aawniErMJKNXT/Ehur0sM/9zelTX0ZUcxumMGA1PEjFEyQ==" /></div><button class="btn-link js-clone-selector" data-protocol="subversion" type="submit">Subversion</button></form>.
+  <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/users/set_protocol?protocol_selector=http&amp;protocol_type=clone" class="inline-form js-clone-selector-form is-enabled" data-form-nonce="ed2c139050ebd65f1aeece952fed82e6f5cb527e" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="sdsqBh7ts5UA9E2fxeUXvtC1BC+DTwn4/WT4G9VvvIRQdGoFuHL82FfZesJLMPQBRm1RbSBEBcN1wVUdlmGeyQ==" /></div><button class="btn-link js-clone-selector" data-protocol="http" type="submit">HTTPS</button></form>, <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/users/set_protocol?protocol_selector=ssh&amp;protocol_type=clone" class="inline-form js-clone-selector-form is-enabled" data-form-nonce="ed2c139050ebd65f1aeece952fed82e6f5cb527e" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="DBNjHNMbHGnS+DfvO3iGfdg79/wjSdU7mWJmk90lQtuuXsGBJ+93HhV/KeYxlvgKNEJXSORRM4Vc9JGm/B2Caw==" /></div><button class="btn-link js-clone-selector" data-protocol="ssh" type="submit">SSH</button></form>, or <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/users/set_protocol?protocol_selector=subversion&amp;protocol_type=clone" class="inline-form js-clone-selector-form is-enabled" data-form-nonce="ed2c139050ebd65f1aeece952fed82e6f5cb527e" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="2SmRehmUmdJhvG1NQRW0Fb4mJfkFUE16rNukmtFVyPYVRyVYT6xc8WpHnbGiIFcIpFxKnGiITUs4+tnUhgLswA==" /></div><button class="btn-link js-clone-selector" data-protocol="subversion" type="submit">Subversion</button></form>.
   <a href="https://help.github.com/articles/which-remote-url-should-i-use" class="help tooltipped tooltipped-n" aria-label="Get help on which URL is right for you.">
     <span class="octicon octicon-question"></span>
   </a>
@@ -498,7 +498,7 @@
     Clone in Desktop
   </a>
 
-              <a href="/Itseez/opencv/archive/2.4.12.x-prep.zip"
+              <a href="/Itseez/opencv/archive/master.zip"
                  class="btn btn-sm sidebar-button"
                  aria-label="Download the contents of Itseez/opencv as a zip file"
                  title="Download the contents of Itseez/opencv as a zip file"
@@ -512,7 +512,7 @@
 
           
 
-<a href="/Itseez/opencv/blob/e6f3f3c029bc7cc5e5fe1aad072f96d08a8ebba0/data/haarcascades/haarcascade_smile.xml" class="hidden js-permalink-shortcut" data-hotkey="y">Permalink</a>
+<a href="/Itseez/opencv/blob/37ce3b8cfe7d851c7c2e0351442019dceb4555cf/data/haarcascades/haarcascade_smile.xml" class="hidden js-permalink-shortcut" data-hotkey="y">Permalink</a>
 
 <!-- blob contrib key: blob_contributors:v21:750b60841af1ce8b1105ae2f44aa5ec0 -->
 
@@ -520,10 +520,10 @@
     
 <div class="select-menu js-menu-container js-select-menu left">
   <button class="btn btn-sm select-menu-button js-menu-target css-truncate" data-hotkey="w"
-    title="2.4.12.x-prep"
+    title="master"
     type="button" aria-label="Switch branches or tags" tabindex="0" aria-haspopup="true">
     <i>Branch:</i>
-    <span class="js-select-button css-truncate-target">2.4.12.x-prep</span>
+    <span class="js-select-button css-truncate-target">master</span>
   </button>
 
   <div class="select-menu-modal-holder js-menu-content js-navigation-container" data-pjax aria-hidden="true">
@@ -565,7 +565,7 @@
                 2.4
               </span>
             </a>
-            <a class="select-menu-item js-navigation-item js-navigation-open selected"
+            <a class="select-menu-item js-navigation-item js-navigation-open "
                href="/Itseez/opencv/blob/2.4.12.x-prep/data/haarcascades/haarcascade_smile.xml"
                data-name="2.4.12.x-prep"
                data-skip-pjax="true"
@@ -575,7 +575,7 @@
                 2.4.12.x-prep
               </span>
             </a>
-            <a class="select-menu-item js-navigation-item js-navigation-open "
+            <a class="select-menu-item js-navigation-item js-navigation-open selected"
                href="/Itseez/opencv/blob/master/data/haarcascades/haarcascade_smile.xml"
                data-name="master"
                data-skip-pjax="true"
@@ -1018,7 +1018,7 @@
 </div>
 
     <div class="btn-group right">
-      <a href="/Itseez/opencv/find/2.4.12.x-prep"
+      <a href="/Itseez/opencv/find/master"
             class="js-show-file-finder btn btn-sm empty-icon tooltipped tooltipped-nw"
             data-pjax
             data-hotkey="t"
@@ -1029,7 +1029,7 @@
     </div>
 
     <div class="breadcrumb js-zeroclipboard-target">
-      <span class="repo-root js-repo-root"><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/Itseez/opencv/tree/2.4.12.x-prep" class="" data-branch="2.4.12.x-prep" data-pjax="true" itemscope="url"><span itemprop="title">opencv</span></a></span></span><span class="separator">/</span><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/Itseez/opencv/tree/2.4.12.x-prep/data" class="" data-branch="2.4.12.x-prep" data-pjax="true" itemscope="url"><span itemprop="title">data</span></a></span><span class="separator">/</span><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/Itseez/opencv/tree/2.4.12.x-prep/data/haarcascades" class="" data-branch="2.4.12.x-prep" data-pjax="true" itemscope="url"><span itemprop="title">haarcascades</span></a></span><span class="separator">/</span><strong class="final-path">haarcascade_smile.xml</strong>
+      <span class="repo-root js-repo-root"><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/Itseez/opencv" class="" data-branch="master" data-pjax="true" itemscope="url"><span itemprop="title">opencv</span></a></span></span><span class="separator">/</span><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/Itseez/opencv/tree/master/data" class="" data-branch="master" data-pjax="true" itemscope="url"><span itemprop="title">data</span></a></span><span class="separator">/</span><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/Itseez/opencv/tree/master/data/haarcascades" class="" data-branch="master" data-pjax="true" itemscope="url"><span itemprop="title">haarcascades</span></a></span><span class="separator">/</span><strong class="final-path">haarcascade_smile.xml</strong>
     </div>
   </div>
 
@@ -1088,24 +1088,24 @@
   <div class="file-actions">
 
     <div class="btn-group">
-      <a href="/Itseez/opencv/raw/2.4.12.x-prep/data/haarcascades/haarcascade_smile.xml" class="btn btn-sm " id="raw-url">Raw</a>
-        <a href="/Itseez/opencv/blame/2.4.12.x-prep/data/haarcascades/haarcascade_smile.xml" class="btn btn-sm js-update-url-with-hash">Blame</a>
-      <a href="/Itseez/opencv/commits/2.4.12.x-prep/data/haarcascades/haarcascade_smile.xml" class="btn btn-sm " rel="nofollow">History</a>
+      <a href="/Itseez/opencv/raw/master/data/haarcascades/haarcascade_smile.xml" class="btn btn-sm " id="raw-url">Raw</a>
+        <a href="/Itseez/opencv/blame/master/data/haarcascades/haarcascade_smile.xml" class="btn btn-sm js-update-url-with-hash">Blame</a>
+      <a href="/Itseez/opencv/commits/master/data/haarcascades/haarcascade_smile.xml" class="btn btn-sm " rel="nofollow">History</a>
     </div>
 
       <a class="octicon-btn tooltipped tooltipped-nw"
-         href="github-windows://openRepo/https://github.com/Itseez/opencv?branch=2.4.12.x-prep&amp;filepath=data%2Fhaarcascades%2Fhaarcascade_smile.xml"
+         href="github-windows://openRepo/https://github.com/Itseez/opencv?branch=master&amp;filepath=data%2Fhaarcascades%2Fhaarcascade_smile.xml"
          aria-label="Open this file in GitHub Desktop"
          data-ga-click="Repository, open with desktop, type:windows">
           <span class="octicon octicon-device-desktop"></span>
       </a>
 
-        <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/Itseez/opencv/edit/2.4.12.x-prep/data/haarcascades/haarcascade_smile.xml" class="inline-form js-update-url-with-hash" data-form-nonce="ed2c139050ebd65f1aeece952fed82e6f5cb527e" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="JsdgwaCpfbKBcPS4PPk8FI3X7Wi9Cks1dNdBJD7JfxETlwyY5u9yNkeo4ZZkPudOm98J5pQmz23YVcvexDxNJw==" /></div>
+        <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/Itseez/opencv/edit/master/data/haarcascades/haarcascade_smile.xml" class="inline-form js-update-url-with-hash" data-form-nonce="ed2c139050ebd65f1aeece952fed82e6f5cb527e" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="YrL//mHS54VYK4t2gy0Nc4SYR8o4HgNd47X+R2Qw5hYkHKo6CGGAuA+uqdZ2NTxrhwlTRotLHaTkJ2jtjkfCwQ==" /></div>
           <button class="octicon-btn tooltipped tooltipped-nw" type="submit"
             aria-label="Fork this project and edit the file" data-hotkey="e" data-disable-with>
             <span class="octicon octicon-pencil"></span>
           </button>
-</form>        <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/Itseez/opencv/delete/2.4.12.x-prep/data/haarcascades/haarcascade_smile.xml" class="inline-form" data-form-nonce="ed2c139050ebd65f1aeece952fed82e6f5cb527e" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="iMq/v9h2tdjWl2owsYV8qk8EY0J5vkzczNwF12T00g5OIf0AlIZswHgfAkase6N4ugRNmN1uZGbmhqXdV8R0Mw==" /></div>
+</form>        <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/Itseez/opencv/delete/master/data/haarcascades/haarcascade_smile.xml" class="inline-form" data-form-nonce="ed2c139050ebd65f1aeece952fed82e6f5cb527e" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="1Fq/vrPPGpDZZBx9nWc6bLE2mWhBt42yeAPUh1RsXwnZJQQ+WYMl7LtuNCABiYIHgZN8wd9X2XX6LfldGlcR8w==" /></div>
           <button class="octicon-btn octicon-btn-danger tooltipped tooltipped-nw" type="submit"
             aria-label="Fork this project and delete the file" data-disable-with>
             <span class="octicon octicon-trashcan"></span>
@@ -28078,7 +28078,7 @@
       <span class="mega-octicon octicon-mark-github" title="GitHub"></span>
 </a>
     <ul class="site-footer-links">
-      <li>&copy; 2015 <span title="0.17024s from github-fe136-cp1-prd.iad.github.net">GitHub</span>, Inc.</li>
+      <li>&copy; 2015 <span title="0.19243s from github-fe122-cp1-prd.iad.github.net">GitHub</span>, Inc.</li>
         <li><a href="https://github.com/site/terms" data-ga-click="Footer, go to terms, text:terms">Terms</a></li>
         <li><a href="https://github.com/site/privacy" data-ga-click="Footer, go to privacy, text:privacy">Privacy</a></li>
         <li><a href="https://github.com/security" data-ga-click="Footer, go to security, text:security">Security</a></li>

@@ -10,7 +10,7 @@
     <meta name="viewport" content="width=1020">
     
     
-    <title>opencv/haarcascade_russian_plate_number.xml at 2.4.12.x-prep · Itseez/opencv</title>
+    <title>opencv/haarcascade_russian_plate_number.xml at master · Itseez/opencv</title>
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
     <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-114.png">
@@ -24,7 +24,7 @@
       <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
     <meta name="browser-errors-url" content="https://api.github.com/_private/browser/errors">
     <link rel="assets" href="https://assets-cdn.github.com/">
-    <link rel="web-socket" href="wss://live.github.com/_sockets/NDA5NjQ4NTpiZmQxMjVhZDY5YzAwOTg0YTJhNTcxMWRlOTg2ODk0ZDozOWFhMzNmN2U0ZjJmNWVmNjY3MmZmYjQyYTkzOTFiMjQyYjA3NzAyNTA1ZGZhYjRjNTM4NWMwMzg3YTdjZDcw--9c1257f53c1a5c55e011ab0d3fd1433542865e99">
+    <link rel="web-socket" href="wss://live.github.com/_sockets/NDA5NjQ4NTpiZmQxMjVhZDY5YzAwOTg0YTJhNTcxMWRlOTg2ODk0ZDo5MWZjNDYwOGUwNmRmMmJiZDRhNTQ1NmE3MmY1OTEzMGU0ZjkyZmMwNmM3NDhhN2Y4OTM5Njc2YWRiM2IxMzQ4--02209bed94b3c860c202a83c9d4f3ae50a9b047e">
     <meta name="pjax-timeout" content="1000">
     <link rel="sudo-modal" href="/sessions/sudo_modal">
 
@@ -35,7 +35,7 @@
     <meta name="google-site-verification" content="KT5gs8h0wvaagLKAVWq8bbeNwnZZK1r1XQysX3xurLU">
     <meta name="google-analytics" content="UA-3769691-2">
 
-<meta content="collector.githubapp.com" name="octolytics-host" /><meta content="github" name="octolytics-app-id" /><meta content="5BE3BEF3:45C9:1346374B:5621752A" name="octolytics-dimension-request_id" /><meta content="4096485" name="octolytics-actor-id" /><meta content="AlexeyAB" name="octolytics-actor-login" /><meta content="62fda105c5f044ef3e0b8302d97792f856817a4f540019bc2b40d30b22d5966f" name="octolytics-actor-hash" />
+<meta content="collector.githubapp.com" name="octolytics-host" /><meta content="github" name="octolytics-app-id" /><meta content="5BE3BEF3:07C6:CB4904E:5621784A" name="octolytics-dimension-request_id" /><meta content="4096485" name="octolytics-actor-id" /><meta content="AlexeyAB" name="octolytics-actor-login" /><meta content="62fda105c5f044ef3e0b8302d97792f856817a4f540019bc2b40d30b22d5966f" name="octolytics-actor-hash" />
 
 <meta content="Rails, view, blob#show" data-pjax-transient="true" name="analytics-event" />
 
@@ -69,7 +69,7 @@
   <meta name="go-import" content="github.com/Itseez/opencv git https://github.com/Itseez/opencv.git">
 
   <meta content="1786446" name="octolytics-dimension-user_id" /><meta content="Itseez" name="octolytics-dimension-user_login" /><meta content="5108051" name="octolytics-dimension-repository_id" /><meta content="Itseez/opencv" name="octolytics-dimension-repository_nwo" /><meta content="true" name="octolytics-dimension-repository_public" /><meta content="false" name="octolytics-dimension-repository_is_fork" /><meta content="5108051" name="octolytics-dimension-repository_network_root_id" /><meta content="Itseez/opencv" name="octolytics-dimension-repository_network_root_nwo" />
-  <link href="https://github.com/Itseez/opencv/commits/2.4.12.x-prep.atom" rel="alternate" title="Recent Commits to opencv:2.4.12.x-prep" type="application/atom+xml">
+  <link href="https://github.com/Itseez/opencv/commits/master.atom" rel="alternate" title="Recent Commits to opencv:master" type="application/atom+xml">
 
   </head>
 
@@ -210,7 +210,7 @@
             Settings
           </a>
 
-          <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/logout" class="logout-form" data-form-nonce="ed2c139050ebd65f1aeece952fed82e6f5cb527e" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="yiPZhNGMIgIB47j8yT1YHu7cmvaEr00itPi5GKKAucXXRxcTBG7bFB/fF0vZbXX73bL2N35co/KMnf1yfUUnfw==" /></div>
+          <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/logout" class="logout-form" data-form-nonce="ed2c139050ebd65f1aeece952fed82e6f5cb527e" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="ZePEyB2N0HddfDyiBnkruuW5QaUfFkSw/fa0PK2dOgeFSgAKDSTMgDqUIUpudN3fLIPbAANa7jQvoNUY6POkXQ==" /></div>
             <button class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
               Sign out
             </button>
@@ -248,7 +248,7 @@
 <ul class="pagehead-actions">
 
   <li>
-      <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-form-nonce="ed2c139050ebd65f1aeece952fed82e6f5cb527e" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="E/gwQHv7Lx2RkPYldEiVS+tz1P/saZWtFL2FOzGrckFlmBtDhsOIWZRfMFRek+88zL7uodPEEJI0uf/YcHCg/g==" /></div>    <input id="repository_id" name="repository_id" type="hidden" value="5108051" />
+      <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-form-nonce="ed2c139050ebd65f1aeece952fed82e6f5cb527e" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="LFZcWc0PDMKUXVxqC9Enc/VTo40M4G1YrPSxUt1S9TVmwgqC9taFkryBKxgM9o8HeWuvnY1NjkkrkkLmS/VQ6A==" /></div>    <input id="repository_id" name="repository_id" type="hidden" value="5108051" />
 
       <div class="select-menu js-menu-container js-select-menu">
         <a href="/Itseez/opencv/subscription"
@@ -323,7 +323,7 @@
     
   <div class="js-toggler-container js-social-container starring-container on">
 
-    <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/Itseez/opencv/unstar" class="js-toggler-form starred js-unstar-button" data-form-nonce="ed2c139050ebd65f1aeece952fed82e6f5cb527e" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="fS3LdvXA+Aw92dkG/N87fZtkkuPVA/cAK2Dm8AueQHpsgOqxrGIWNUm85PDTE1erCsTfE/wmhESkg/yWgxbzyA==" /></div>
+    <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/Itseez/opencv/unstar" class="js-toggler-form starred js-unstar-button" data-form-nonce="ed2c139050ebd65f1aeece952fed82e6f5cb527e" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="ESLzOizJF0nDa8x0RfN1tecJ2xNhLqBx3OVFUKdTO1UJnOSi3oLsl38BgD1HKZ2bCpfPOrphThdqyiSKE68Wbw==" /></div>
       <button
         class="btn btn-sm btn-with-count js-toggler-target"
         aria-label="Unstar this repository" title="Unstar Itseez/opencv"
@@ -335,7 +335,7 @@
           6,913
         </a>
 </form>
-    <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/Itseez/opencv/star" class="js-toggler-form unstarred js-star-button" data-form-nonce="ed2c139050ebd65f1aeece952fed82e6f5cb527e" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="QCjThm5S8eNEYdf0KIGzIx1FEL8m5hpmo6kMgbayf8hC1Su55IzFEi9+qkFH++v+ItFDbQR8pfAUIiHL8dowcA==" /></div>
+    <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/Itseez/opencv/star" class="js-toggler-form unstarred js-star-button" data-form-nonce="ed2c139050ebd65f1aeece952fed82e6f5cb527e" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="l8aTMaej9ZrXb2epBCnvPyZCyFUjiMpzBldfUkDFk4adfOkWrCIfqNqVNYYmqDAql7jh8koyo85ZSbJNiKp0bg==" /></div>
       <button
         class="btn btn-sm btn-with-count js-toggler-target"
         aria-label="Star this repository" title="Star Itseez/opencv"
@@ -401,7 +401,7 @@
      data-issue-count-url="/Itseez/opencv/issues/counts">
   <ul class="sunken-menu-group">
     <li class="tooltipped tooltipped-w" aria-label="Code">
-      <a href="/Itseez/opencv/tree/2.4.12.x-prep" aria-label="Code" aria-selected="true" class="js-selected-navigation-item selected sunken-menu-item" data-hotkey="g c" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches /Itseez/opencv/tree/2.4.12.x-prep">
+      <a href="/Itseez/opencv" aria-label="Code" aria-selected="true" class="js-selected-navigation-item selected sunken-menu-item" data-hotkey="g c" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches /Itseez/opencv">
         <span class="octicon octicon-code"></span> <span class="full-word">Code</span>
         <img alt="" class="mini-loader" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
 </a>    </li>
@@ -488,7 +488,7 @@
 
 
 <div class="clone-options text-small">You can clone with
-  <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/users/set_protocol?protocol_selector=http&amp;protocol_type=clone" class="inline-form js-clone-selector-form is-enabled" data-form-nonce="ed2c139050ebd65f1aeece952fed82e6f5cb527e" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="0lqKUAPaQYXWu8V+VFH1I5aLfErG5xyM19GsNEiruHpjqVcoLdCaYdFWaHCuLyL4xETBmoAI76H1bGe33pFD/w==" /></div><button class="btn-link js-clone-selector" data-protocol="http" type="submit">HTTPS</button></form>, <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/users/set_protocol?protocol_selector=ssh&amp;protocol_type=clone" class="inline-form js-clone-selector-form is-enabled" data-form-nonce="ed2c139050ebd65f1aeece952fed82e6f5cb527e" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="9zjpIUn8A48KRDTPIU3NqrwYcgC7dQ8l/e1s1t8lXsn6Oh5w2eKO3I44u5AP5qLaw6mSQujDre8Mg75eB+moXw==" /></div><button class="btn-link js-clone-selector" data-protocol="ssh" type="submit">SSH</button></form>, or <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/users/set_protocol?protocol_selector=subversion&amp;protocol_type=clone" class="inline-form js-clone-selector-form is-enabled" data-form-nonce="ed2c139050ebd65f1aeece952fed82e6f5cb527e" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="tp0KvFF7HouGirDkSD0fPS1KxYz0M0XFbEYtwOA+v1lU+sUUyzxWjsmdMy4bz6TOOu56eSS9BB13fdxLXyrgjg==" /></div><button class="btn-link js-clone-selector" data-protocol="subversion" type="submit">Subversion</button></form>.
+  <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/users/set_protocol?protocol_selector=http&amp;protocol_type=clone" class="inline-form js-clone-selector-form is-enabled" data-form-nonce="ed2c139050ebd65f1aeece952fed82e6f5cb527e" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="a99C7Ani1NRckM4Xb/j72ttZuZGIFE9END8s3qp3jlI1ueclDu5mWRNv2HuH6y7FOn+rmBcUEqlCe+pg29pypQ==" /></div><button class="btn-link js-clone-selector" data-protocol="http" type="submit">HTTPS</button></form>, <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/users/set_protocol?protocol_selector=ssh&amp;protocol_type=clone" class="inline-form js-clone-selector-form is-enabled" data-form-nonce="ed2c139050ebd65f1aeece952fed82e6f5cb527e" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="XFjdaND/Pf4Ds5lGeddWmI4esjMyMFxiLH50VZhYbY/+ttrVFygutpcMHxLPJJ0icH3PFvo78Fz20VjiUDDOow==" /></div><button class="btn-link js-clone-selector" data-protocol="ssh" type="submit">SSH</button></form>, or <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/users/set_protocol?protocol_selector=subversion&amp;protocol_type=clone" class="inline-form js-clone-selector-form is-enabled" data-form-nonce="ed2c139050ebd65f1aeece952fed82e6f5cb527e" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="hjWRWqLJ308wY/e7WjLfAlM5gcMWhBeTzI3ie77SfcDyOC2Y/6N7azr8+4vj5PbasjkFCRNvuiZLj4elUFTXYA==" /></div><button class="btn-link js-clone-selector" data-protocol="subversion" type="submit">Subversion</button></form>.
   <a href="https://help.github.com/articles/which-remote-url-should-i-use" class="help tooltipped tooltipped-n" aria-label="Get help on which URL is right for you.">
     <span class="octicon octicon-question"></span>
   </a>
@@ -498,7 +498,7 @@
     Clone in Desktop
   </a>
 
-              <a href="/Itseez/opencv/archive/2.4.12.x-prep.zip"
+              <a href="/Itseez/opencv/archive/master.zip"
                  class="btn btn-sm sidebar-button"
                  aria-label="Download the contents of Itseez/opencv as a zip file"
                  title="Download the contents of Itseez/opencv as a zip file"
@@ -512,7 +512,7 @@
 
           
 
-<a href="/Itseez/opencv/blob/e6f3f3c029bc7cc5e5fe1aad072f96d08a8ebba0/data/haarcascades/haarcascade_russian_plate_number.xml" class="hidden js-permalink-shortcut" data-hotkey="y">Permalink</a>
+<a href="/Itseez/opencv/blob/37ce3b8cfe7d851c7c2e0351442019dceb4555cf/data/haarcascades/haarcascade_russian_plate_number.xml" class="hidden js-permalink-shortcut" data-hotkey="y">Permalink</a>
 
 <!-- blob contrib key: blob_contributors:v21:6b847f35a4c024539072c510a70ed1af -->
 
@@ -520,10 +520,10 @@
     
 <div class="select-menu js-menu-container js-select-menu left">
   <button class="btn btn-sm select-menu-button js-menu-target css-truncate" data-hotkey="w"
-    title="2.4.12.x-prep"
+    title="master"
     type="button" aria-label="Switch branches or tags" tabindex="0" aria-haspopup="true">
     <i>Branch:</i>
-    <span class="js-select-button css-truncate-target">2.4.12.x-prep</span>
+    <span class="js-select-button css-truncate-target">master</span>
   </button>
 
   <div class="select-menu-modal-holder js-menu-content js-navigation-container" data-pjax aria-hidden="true">
@@ -565,7 +565,7 @@
                 2.4
               </span>
             </a>
-            <a class="select-menu-item js-navigation-item js-navigation-open selected"
+            <a class="select-menu-item js-navigation-item js-navigation-open "
                href="/Itseez/opencv/blob/2.4.12.x-prep/data/haarcascades/haarcascade_russian_plate_number.xml"
                data-name="2.4.12.x-prep"
                data-skip-pjax="true"
@@ -575,7 +575,7 @@
                 2.4.12.x-prep
               </span>
             </a>
-            <a class="select-menu-item js-navigation-item js-navigation-open "
+            <a class="select-menu-item js-navigation-item js-navigation-open selected"
                href="/Itseez/opencv/blob/master/data/haarcascades/haarcascade_russian_plate_number.xml"
                data-name="master"
                data-skip-pjax="true"
@@ -1018,7 +1018,7 @@
 </div>
 
     <div class="btn-group right">
-      <a href="/Itseez/opencv/find/2.4.12.x-prep"
+      <a href="/Itseez/opencv/find/master"
             class="js-show-file-finder btn btn-sm empty-icon tooltipped tooltipped-nw"
             data-pjax
             data-hotkey="t"
@@ -1029,7 +1029,7 @@
     </div>
 
     <div class="breadcrumb js-zeroclipboard-target">
-      <span class="repo-root js-repo-root"><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/Itseez/opencv/tree/2.4.12.x-prep" class="" data-branch="2.4.12.x-prep" data-pjax="true" itemscope="url"><span itemprop="title">opencv</span></a></span></span><span class="separator">/</span><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/Itseez/opencv/tree/2.4.12.x-prep/data" class="" data-branch="2.4.12.x-prep" data-pjax="true" itemscope="url"><span itemprop="title">data</span></a></span><span class="separator">/</span><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/Itseez/opencv/tree/2.4.12.x-prep/data/haarcascades" class="" data-branch="2.4.12.x-prep" data-pjax="true" itemscope="url"><span itemprop="title">haarcascades</span></a></span><span class="separator">/</span><strong class="final-path">haarcascade_russian_plate_number.xml</strong>
+      <span class="repo-root js-repo-root"><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/Itseez/opencv" class="" data-branch="master" data-pjax="true" itemscope="url"><span itemprop="title">opencv</span></a></span></span><span class="separator">/</span><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/Itseez/opencv/tree/master/data" class="" data-branch="master" data-pjax="true" itemscope="url"><span itemprop="title">data</span></a></span><span class="separator">/</span><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/Itseez/opencv/tree/master/data/haarcascades" class="" data-branch="master" data-pjax="true" itemscope="url"><span itemprop="title">haarcascades</span></a></span><span class="separator">/</span><strong class="final-path">haarcascade_russian_plate_number.xml</strong>
     </div>
   </div>
 
@@ -1073,24 +1073,24 @@ Detector for russsian vehicle registration plate">Create haarcascade_russian_pla
   <div class="file-actions">
 
     <div class="btn-group">
-      <a href="/Itseez/opencv/raw/2.4.12.x-prep/data/haarcascades/haarcascade_russian_plate_number.xml" class="btn btn-sm " id="raw-url">Raw</a>
-        <a href="/Itseez/opencv/blame/2.4.12.x-prep/data/haarcascades/haarcascade_russian_plate_number.xml" class="btn btn-sm js-update-url-with-hash">Blame</a>
-      <a href="/Itseez/opencv/commits/2.4.12.x-prep/data/haarcascades/haarcascade_russian_plate_number.xml" class="btn btn-sm " rel="nofollow">History</a>
+      <a href="/Itseez/opencv/raw/master/data/haarcascades/haarcascade_russian_plate_number.xml" class="btn btn-sm " id="raw-url">Raw</a>
+        <a href="/Itseez/opencv/blame/master/data/haarcascades/haarcascade_russian_plate_number.xml" class="btn btn-sm js-update-url-with-hash">Blame</a>
+      <a href="/Itseez/opencv/commits/master/data/haarcascades/haarcascade_russian_plate_number.xml" class="btn btn-sm " rel="nofollow">History</a>
     </div>
 
       <a class="octicon-btn tooltipped tooltipped-nw"
-         href="github-windows://openRepo/https://github.com/Itseez/opencv?branch=2.4.12.x-prep&amp;filepath=data%2Fhaarcascades%2Fhaarcascade_russian_plate_number.xml"
+         href="github-windows://openRepo/https://github.com/Itseez/opencv?branch=master&amp;filepath=data%2Fhaarcascades%2Fhaarcascade_russian_plate_number.xml"
          aria-label="Open this file in GitHub Desktop"
          data-ga-click="Repository, open with desktop, type:windows">
           <span class="octicon octicon-device-desktop"></span>
       </a>
 
-        <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/Itseez/opencv/edit/2.4.12.x-prep/data/haarcascades/haarcascade_russian_plate_number.xml" class="inline-form js-update-url-with-hash" data-form-nonce="ed2c139050ebd65f1aeece952fed82e6f5cb527e" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="d3Pqdls4BPcyK5FI43hql+d4An8A4J0gPCkq94n42WpjJ+ubeDMgn0WKqlvnuQL4EWdJRlMROXGqn8gRc24Lfw==" /></div>
+        <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/Itseez/opencv/edit/master/data/haarcascades/haarcascade_russian_plate_number.xml" class="inline-form js-update-url-with-hash" data-form-nonce="ed2c139050ebd65f1aeece952fed82e6f5cb527e" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="gIFc9rNEEhtKfp/drxJdQpKPkYKN23ajU5BfO5TF66ZC/JL7xjzROEYq/HiUAe9SFkN2ZQJkx8y1nzA81m1pFg==" /></div>
           <button class="octicon-btn tooltipped tooltipped-nw" type="submit"
             aria-label="Fork this project and edit the file" data-hotkey="e" data-disable-with>
             <span class="octicon octicon-pencil"></span>
           </button>
-</form>        <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/Itseez/opencv/delete/2.4.12.x-prep/data/haarcascades/haarcascade_russian_plate_number.xml" class="inline-form" data-form-nonce="ed2c139050ebd65f1aeece952fed82e6f5cb527e" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="rzjjDPuS1Njob5SDrjuwcUjzqeaweDjJ8KJ6qcGhmknrDpkW5fb+NJJQkMmoBjLDcyeFhTsPCLXFHlm469a7Vw==" /></div>
+</form>        <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/Itseez/opencv/delete/master/data/haarcascades/haarcascade_russian_plate_number.xml" class="inline-form" data-form-nonce="ed2c139050ebd65f1aeece952fed82e6f5cb527e" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="Jp1Phn9VQpPq/QudeYx55bW6vTp/f6ARzxAW0ICinvXfeR6yX91jfHgS36ZYx1/4b0RUerh2EbONBvQyNq+kzA==" /></div>
           <button class="octicon-btn octicon-btn-danger tooltipped tooltipped-nw" type="submit"
             aria-label="Fork this project and delete the file" data-disable-with>
             <span class="octicon octicon-trashcan"></span>
@@ -11771,7 +11771,7 @@ Detector for russsian vehicle registration plate">Create haarcascade_russian_pla
       <span class="mega-octicon octicon-mark-github" title="GitHub"></span>
 </a>
     <ul class="site-footer-links">
-      <li>&copy; 2015 <span title="0.11809s from github-fe130-cp1-prd.iad.github.net">GitHub</span>, Inc.</li>
+      <li>&copy; 2015 <span title="0.17174s from github-fe130-cp1-prd.iad.github.net">GitHub</span>, Inc.</li>
         <li><a href="https://github.com/site/terms" data-ga-click="Footer, go to terms, text:terms">Terms</a></li>
         <li><a href="https://github.com/site/privacy" data-ga-click="Footer, go to privacy, text:privacy">Privacy</a></li>
         <li><a href="https://github.com/security" data-ga-click="Footer, go to security, text:security">Security</a></li>
